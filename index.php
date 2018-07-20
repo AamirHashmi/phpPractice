@@ -9,7 +9,7 @@
 <body>
     <div id="navbar">
         <ul>
-            <li><a href="index.php">PLACEHOLDER</a></li>
+            <li><a href="index.php">PLACEHOLDA</a></li>
             <li><a href="https://www.w3schools.com/html/">PLACEHOLDER</a></li>
             <li><a href="https://www.w3schools.com/html/">PLACEHOLDER</a></li>
             <li><input type = "image" src="media/search_icon.png" id="searchBtn" onclick="showSearchBar()" height="20px" width="20px" alt="search"></li>
