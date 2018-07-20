@@ -33,17 +33,6 @@
         	echo "Error: " . $sql . "<br>" . $conn->error;
         }
 
-        
-
-        $sql = "SELECT usernames
-        VALUES ('$username')";
-
-        $result = $conn->query($sql);
-
-        if($result == nigu ){
-        	echo "ACCOUNT FOUND";
-    	}
-
     	?>
 
 		Welcome <?php echo $_GET["name"]; ?><br>
